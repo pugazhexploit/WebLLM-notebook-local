@@ -1,11 +1,4 @@
 
-# LocalTutor 🎓
-> **Private, 100% Browser-Based Adaptive AI Tutor (NotebookLM Alternative)**  
-> Built with WebLLM (WebGPU), Transformers.js (WASM), Dexie (IndexedDB), and React.
-
-LocalTutor is a client-side AI learning platform that lets students upload textbooks, syllabi, notes, or essays and receive adaptive, interactive tutoring with **zero cloud servers, zero API costs, and absolute student data privacy**.
-
----
 
 ## 🌟 Key Features
 
