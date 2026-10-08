@@ -33,6 +33,16 @@ LocalTutor lets you upload study material (PDFs, Word documents, plain text or M
 
 ---
 
+---
+## Demo 
+
+ <p align="center">
+  <img src="webllm-scr.png"  >
+</p>
+
+
+
+---
 ## Overview
 
 Most "chat with your documents" tools send your files to a hosted model. LocalTutor takes the opposite approach: after the one-time download of model weights, everything runs locally.
