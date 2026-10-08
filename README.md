@@ -1,4 +1,4 @@
-# LocalTutor 🎓
+### A Local NotebookLM Alternative, Built with WebLLM LocalTutor 🎓
 
 **A private, browser-based adaptive AI tutor. A NotebookLM-style study desk that runs on your own machine.**
 
